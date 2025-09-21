@@ -18,3 +18,5 @@ elif num3>num1:
     else:
         print(num2, "is big")
 
+print(f"Numbers entered are {num1}, {num2}, {num3}")
+print("End of program")
