@@ -1,1 +1,1 @@
-# Software_Lab_1
+This is my first repository in Software lab
