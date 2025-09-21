@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include<iostream>
+using namespace std;
 
 int main()
 {
-    printf("Added file to the new branch: branch-1");
+    cout<<"Added file to the new branch: branch-1";
 }

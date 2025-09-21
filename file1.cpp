@@ -1,7 +1,8 @@
-#include<stdio.h>
+#include<iostream>
+using namespace std;
 
 int main()
 {
-    printf("Hello from vs code\n");
-    printf("Add file to github");
+    cout<<"Hello from vs code\n";
+    cout<<"Add file to github";
 }
